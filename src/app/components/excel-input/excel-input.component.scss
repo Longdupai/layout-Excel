@@ -1,0 +1,28 @@
+.input{
+    overflow: hidden;
+    background-image:url('https://th.wallhaven.cc/lg/pk/pk38ee.jpg');
+    margin: 0px;
+    margin-top: 0px;
+    height: 35px;
+    padding-top: 6px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    font-size: 20px;
+    border-bottom: 2px solid;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    display: flex;
+    flex-direction:column;
+    justify-content: left;
+}
+
+input{
+    width: 500px;
+}
+
+input:focus,
+select:focus
+ {
+    outline: none;
+}
+

@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Excel"
+    }
+  },
+  "defaultProject": "Excel",
+  "cli": {
+    "analytics": "d30c96dd-9022-4a4a-be76-bbef296c0b90"
+  }
 }
